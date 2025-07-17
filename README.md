@@ -12,8 +12,8 @@ Classify football players in the Big 8 European leagues into positions and roles
    Trains an XGBoost classifier to assign each player to one of 7 position groups (GK, CB, FB, DM, AM, WF, CF) based only on raw stats.  
    *supervised classification, model training, label encoding*
 3. **Feature Engineering & Standardization**  
-   Applies z-score normalization per position group to enable fair comparisons across stats. Adds positional indices like verticality (field location) and flank usage (CPA/TPA).  
-   *feature engineering, standardization*
+   Applies z-score normalization per position group to enable fair comparisons across stats. Creates positional metrics to derive average position (verticality & width) from event data.  
+   *feature engineering, standardization, data engineering*
 4. **Unsupervised Role Clustering**  
    Uses KMeans to cluster players into 3 roles within each position group (e.g., CB-1, CB-2, CB-3).  
    *unsupervised learning, K-means clustering*
