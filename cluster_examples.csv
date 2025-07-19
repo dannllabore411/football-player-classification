@@ -1,0 +1,106 @@
+﻿PosGrp,SuggestedRole,TopFeatures,Player,Squad,League
+GK,"GK-Crosser, Blocker","Performance_2CrdY↑, CrsPA↑, Blocks_Blocks↑, Carries_1/3↓, Performance_Fls↑",Augusto Batalla,Granada,La Liga
+GK,"GK-Crosser, Blocker","Performance_2CrdY↑, CrsPA↑, Blocks_Blocks↑, Carries_1/3↓, Performance_Fls↑",Eloy Room,Vitesse,Eredivisie
+GK,"GK-Crosser, Blocker","Performance_2CrdY↑, CrsPA↑, Blocks_Blocks↑, Carries_1/3↓, Performance_Fls↑",Matteo Lovato,Torino,Serie A
+GK,"GK-Crosser, Blocker","Performance_2CrdY↑, CrsPA↑, Blocks_Blocks↑, Carries_1/3↓, Performance_Fls↑",Mark Flekken,Brentford,Premier League
+GK,"GK-Crosser, Blocker","Performance_2CrdY↑, CrsPA↑, Blocks_Blocks↑, Carries_1/3↓, Performance_Fls↑",Mio Backhaus,Volendam,Eredivisie
+GK,GK-Hybrid,"Performance_PKwon↑, TO↑, Sh↑, Carries_Dis↓, Carries_Mis↓",Bruno Varela,Vitória,Primeira Liga
+GK,GK-Hybrid,"Performance_PKwon↑, TO↑, Sh↑, Carries_Dis↓, Carries_Mis↓",Fernando,Almería,La Liga
+GK,GK-Hybrid,"Performance_PKwon↑, TO↑, Sh↑, Carries_Dis↓, Carries_Mis↓",Alphonse Areola,West Ham,Premier League
+GK,GK-Hybrid,"Performance_PKwon↑, TO↑, Sh↑, Carries_Dis↓, Carries_Mis↓",Vincenzo Fiorillo,Salernitana,Serie A
+GK,GK-Hybrid,"Performance_PKwon↑, TO↑, Sh↑, Carries_Dis↓, Carries_Mis↓",Charles,Vitória,Primeira Liga
+GK,GK-Finisher,"Tackles_Att 3rd↑, PrgR↑, xG↑, Performance_CrdR↓, Ast_passing↓",Paulo Gazzaniga,Girona,La Liga
+GK,GK-Finisher,"Tackles_Att 3rd↑, PrgR↑, xG↑, Performance_CrdR↓, Ast_passing↓",Bart Verbruggen,Brighton,Premier League
+GK,GK-Finisher,"Tackles_Att 3rd↑, PrgR↑, xG↑, Performance_CrdR↓, Ast_passing↓",Alex Meret,Napoli,Serie A
+GK,GK-Finisher,"Tackles_Att 3rd↑, PrgR↑, xG↑, Performance_CrdR↓, Ast_passing↓",Matz Sels,Strasbourg,Ligue 1
+GK,GK-Finisher,"Tackles_Att 3rd↑, PrgR↑, xG↑, Performance_CrdR↓, Ast_passing↓",Pavao Pervan,Wolfsburg,Bundesliga
+CB,"CB-Sweeper, Carrier, Distributor","Clr↑, Performance_Recov↓, Carries_1/3↓, PrgC↓, PrgP↓",Domingos Duarte,Getafe,La Liga
+CB,"CB-Sweeper, Carrier, Distributor","Clr↑, Performance_Recov↓, Carries_1/3↓, PrgC↓, PrgP↓",Mason Holgate,Sheffield Utd,Premier League
+CB,"CB-Sweeper, Carrier, Distributor","Clr↑, Performance_Recov↓, Carries_1/3↓, PrgC↓, PrgP↓",Montassar Talbi,Lorient,Ligue 1
+CB,"CB-Sweeper, Carrier, Distributor","Clr↑, Performance_Recov↓, Carries_1/3↓, PrgC↓, PrgP↓",Miguel Ángel Rubio,Granada,La Liga
+CB,"CB-Sweeper, Carrier, Distributor","Clr↑, Performance_Recov↓, Carries_1/3↓, PrgC↓, PrgP↓",Kostas Manolas,Salernitana,Serie A
+CB,CB-Hybrid,"Long_Cmp↑, Expected_A-xAG↑, Total_TotDist↑, Total_PrgDist↑, Long_Att↑",Jon Pacheco,Real Sociedad,La Liga
+CB,CB-Hybrid,"Long_Cmp↑, Expected_A-xAG↑, Total_TotDist↑, Total_PrgDist↑, Long_Att↑",Florian Lejeune,Rayo Vallecano,La Liga
+CB,CB-Hybrid,"Long_Cmp↑, Expected_A-xAG↑, Total_TotDist↑, Total_PrgDist↑, Long_Att↑",Jorrel Hato,Ajax,Eredivisie
+CB,CB-Hybrid,"Long_Cmp↑, Expected_A-xAG↑, Total_TotDist↑, Total_PrgDist↑, Long_Att↑",Robin Le Normand,Real Sociedad,La Liga
+CB,CB-Hybrid,"Long_Cmp↑, Expected_A-xAG↑, Total_TotDist↑, Total_PrgDist↑, Long_Att↑",Eric Dier,Bayern Munich,Bundesliga
+CB,CB-Hybrid,"Fld↑, Carries_Mis↑, xG+xAG↑, PassDead↑, G-xG↑",Emin Bayram,Westerlo,Belgian Pro League
+CB,CB-Hybrid,"Fld↑, Carries_Mis↑, xG+xAG↑, PassDead↑, G-xG↑",Joey Jacobs,Almere City,Eredivisie
+CB,CB-Hybrid,"Fld↑, Carries_Mis↑, xG+xAG↑, PassDead↑, G-xG↑",Koki Machida,Union SG,Belgian Pro League
+CB,CB-Hybrid,"Fld↑, Carries_Mis↑, xG+xAG↑, PassDead↑, G-xG↑",Michael Keane,Everton,Premier League
+CB,CB-Hybrid,"Fld↑, Carries_Mis↑, xG+xAG↑, PassDead↑, G-xG↑",Ryan Flamingo,Utrecht,Eredivisie
+FB,FB-Hybrid,"PPA↑, npxG/Sh↑, Expected_xA↑, G+A-PK↑, Touches_Att 3rd↑",Maxim De Cuyper,Club Brugge,Belgian Pro League
+FB,FB-Hybrid,"PPA↑, npxG/Sh↑, Expected_xA↑, G+A-PK↑, Touches_Att 3rd↑",Joakim Mæhle,Wolfsburg,Bundesliga
+FB,FB-Hybrid,"PPA↑, npxG/Sh↑, Expected_xA↑, G+A-PK↑, Touches_Att 3rd↑",Ismail Jakobs,Monaco,Ligue 1
+FB,FB-Hybrid,"PPA↑, npxG/Sh↑, Expected_xA↑, G+A-PK↑, Touches_Att 3rd↑",Óscar Mingueza,Celta Vigo,La Liga
+FB,FB-Hybrid,"PPA↑, npxG/Sh↑, Expected_xA↑, G+A-PK↑, Touches_Att 3rd↑",Andrew Robertson,Liverpool,Premier League
+FB,FB-Hybrid,"Short_Cmp↓, 1/3↓, Performance_2CrdY↓, Carries_Carries↓, Total_Cmp↓",Álex Moreno,Aston Villa,Premier League
+FB,FB-Hybrid,"Short_Cmp↓, 1/3↓, Performance_2CrdY↓, Carries_Carries↓, Total_Cmp↓",Florian Miguel,OH Leuven,Belgian Pro League
+FB,FB-Hybrid,"Short_Cmp↓, 1/3↓, Performance_2CrdY↓, Carries_Carries↓, Total_Cmp↓",Zeki Çelik,Roma,Serie A
+FB,FB-Hybrid,"Short_Cmp↓, 1/3↓, Performance_2CrdY↓, Carries_Carries↓, Total_Cmp↓",Nicolas Cozza,Nantes,Ligue 1
+FB,FB-Hybrid,"Short_Cmp↓, 1/3↓, Performance_2CrdY↓, Carries_Carries↓, Total_Cmp↓",Oskar Buur,Volendam,Eredivisie
+FB,FB-Interceptor,"Dist↓, Carries_Dis↓, Int↑, Touches_Def 3rd↑, Challenges_Tkl%↑",Ricardo Rodríguez,Torino,Serie A
+FB,FB-Interceptor,"Dist↓, Carries_Dis↓, Int↑, Touches_Def 3rd↑, Challenges_Tkl%↑",Thierry Correia,Valencia,La Liga
+FB,FB-Interceptor,"Dist↓, Carries_Dis↓, Int↑, Touches_Def 3rd↑, Challenges_Tkl%↑",Marc Cucurella,Chelsea,Premier League
+FB,FB-Interceptor,"Dist↓, Carries_Dis↓, Int↑, Touches_Def 3rd↑, Challenges_Tkl%↑",Davide Calabria,Milan,Serie A
+FB,FB-Interceptor,"Dist↓, Carries_Dis↓, Int↑, Touches_Def 3rd↑, Challenges_Tkl%↑",Matheus Reis,Sporting CP,Primeira Liga
+DM,DM-Hybrid,"Touches_Def 3rd↓, Performance_Off↑, Carries_Mis↑, Def↑, Take-Ons_Tkld%↑",Maximilian Eggestein,Freiburg,Bundesliga
+DM,DM-Hybrid,"Touches_Def 3rd↓, Performance_Off↑, Carries_Mis↑, Def↑, Take-Ons_Tkld%↑",Nicolás González,Porto,Primeira Liga
+DM,DM-Hybrid,"Touches_Def 3rd↓, Performance_Off↑, Carries_Mis↑, Def↑, Take-Ons_Tkld%↑",Mahamadou Diawara,Lyon,Ligue 1
+DM,DM-Hybrid,"Touches_Def 3rd↓, Performance_Off↑, Carries_Mis↑, Def↑, Take-Ons_Tkld%↑",José Callejón,Granada,La Liga
+DM,DM-Hybrid,"Touches_Def 3rd↓, Performance_Off↑, Carries_Mis↑, Def↑, Take-Ons_Tkld%↑",Mattéo Guendouzi,Lazio,Serie A
+DM,DM-Hybrid,"Challenges_Lost↓, Expected_A-xAG↑, Performance_Fls↓, Blocks_Pass↓, PK_shooting↑",Angelo Stiller,Stuttgart,Bundesliga
+DM,DM-Hybrid,"Challenges_Lost↓, Expected_A-xAG↑, Performance_Fls↓, Blocks_Pass↓, PK_shooting↑",Mateo Kovačić,Manchester City,Premier League
+DM,DM-Hybrid,"Challenges_Lost↓, Expected_A-xAG↑, Performance_Fls↓, Blocks_Pass↓, PK_shooting↑",Jonathan de Guzmán,Sparta R'dam,Eredivisie
+DM,DM-Hybrid,"Challenges_Lost↓, Expected_A-xAG↑, Performance_Fls↓, Blocks_Pass↓, PK_shooting↑",Branco van den Boomen,Ajax,Eredivisie
+DM,DM-Hybrid,"Challenges_Lost↓, Expected_A-xAG↑, Performance_Fls↓, Blocks_Pass↓, PK_shooting↑",Xaver Schlager,RB Leipzig,Bundesliga
+DM,DM-Sweeper,"G+A-PK↓, Performance_CrdY↑, Gls_shooting↓, npxG+xAG↓, Clr↑",Lawrence Ofori,Moreirense,Primeira Liga
+DM,DM-Sweeper,"G+A-PK↓, Performance_CrdY↑, Gls_shooting↓, npxG+xAG↓, Clr↑",Lucas Robertone,Almería,La Liga
+DM,DM-Sweeper,"G+A-PK↓, Performance_CrdY↑, Gls_shooting↓, npxG+xAG↓, Clr↑",Ellyes Skhiri,Eint Frankfurt,Bundesliga
+DM,DM-Sweeper,"G+A-PK↓, Performance_CrdY↑, Gls_shooting↓, npxG+xAG↓, Clr↑",Douglas,Nantes,Ligue 1
+DM,DM-Sweeper,"G+A-PK↓, Performance_CrdY↑, Gls_shooting↓, npxG+xAG↓, Clr↑",Hannes Van der Bruggen,Cercle Brugge,Belgian Pro League
+AM,AM-Distributor,"Medium_Cmp%↑, Touches_Def 3rd↑, GCA↑, PrgP↑, Long_Cmp↑",André Franco,Porto,Primeira Liga
+AM,AM-Distributor,"Medium_Cmp%↑, Touches_Def 3rd↑, GCA↑, PrgP↑, Long_Cmp↑",Maghnes Akliouche,Monaco,Ligue 1
+AM,AM-Distributor,"Medium_Cmp%↑, Touches_Def 3rd↑, GCA↑, PrgP↑, Long_Cmp↑",Pablo Sarabia,Wolves,Premier League
+AM,AM-Distributor,"Medium_Cmp%↑, Touches_Def 3rd↑, GCA↑, PrgP↑, Long_Cmp↑",Téji Savanier,Montpellier,Ligue 1
+AM,AM-Distributor,"Medium_Cmp%↑, Touches_Def 3rd↑, GCA↑, PrgP↑, Long_Cmp↑",Isco,Betis,La Liga
+AM,"AM-Carrier, Chance Creator, Creator","PrgC↓, SCA↓, xAG↓, Performance_Recov↓, Ast_passing↓",Lazar Samardzic,Udinese,Serie A
+AM,"AM-Carrier, Chance Creator, Creator","PrgC↓, SCA↓, xAG↓, Performance_Recov↓, Ast_passing↓",Darwin Machís,Cádiz,La Liga
+AM,"AM-Carrier, Chance Creator, Creator","PrgC↓, SCA↓, xAG↓, Performance_Recov↓, Ast_passing↓",Ângelo,Strasbourg,Ligue 1
+AM,"AM-Carrier, Chance Creator, Creator","PrgC↓, SCA↓, xAG↓, Performance_Recov↓, Ast_passing↓",Kamil Jóźwiak,Granada,La Liga
+AM,"AM-Carrier, Chance Creator, Creator","PrgC↓, SCA↓, xAG↓, Performance_Recov↓, Ast_passing↓",Régis N’Do,Estrela,Primeira Liga
+AM,AM-Advanced,"Performance_OG↓, xG+xAG↑, G+A-PK↑, Touches_Att Pen↑, Blocks_Sh↓",Cauley Woodrow,Luton Town,Premier League
+AM,AM-Advanced,"Performance_OG↓, xG+xAG↑, G+A-PK↑, Touches_Att Pen↑, Blocks_Sh↓",Solly March,Brighton,Premier League
+AM,AM-Advanced,"Performance_OG↓, xG+xAG↑, G+A-PK↑, Touches_Att Pen↑, Blocks_Sh↓",Amad Diallo,Manchester Utd,Premier League
+AM,AM-Advanced,"Performance_OG↓, xG+xAG↑, G+A-PK↑, Touches_Att Pen↑, Blocks_Sh↓",Ibrahim Salah,Rennes,Ligue 1
+AM,AM-Advanced,"Performance_OG↓, xG+xAG↑, G+A-PK↑, Touches_Att Pen↑, Blocks_Sh↓",Érik Lamela,Sevilla,La Liga
+WF,WF-Hybrid,"G+A-PK↑, Performance_Fls↓, Take-Ons_Att↑, TO↑, xG+xAG↑",Andrej Kramarić,Hoffenheim,Bundesliga
+WF,WF-Hybrid,"G+A-PK↑, Performance_Fls↓, Take-Ons_Att↑, TO↑, xG+xAG↑",Saïd Benrahma,Lyon,Ligue 1
+WF,WF-Hybrid,"G+A-PK↑, Performance_Fls↓, Take-Ons_Att↑, TO↑, xG+xAG↑",João Félix,Barcelona,La Liga
+WF,WF-Hybrid,"G+A-PK↑, Performance_Fls↓, Take-Ons_Att↑, TO↑, xG+xAG↑",Mama Samba Baldé,Lyon,Ligue 1
+WF,WF-Hybrid,"G+A-PK↑, Performance_Fls↓, Take-Ons_Att↑, TO↑, xG+xAG↑",Jeremy Doku,Manchester City,Premier League
+WF,WF-Target,"Tackles_Att 3rd↓, Carries_Carries↓, Performance_Crs↓, Short_Cmp%↓, Aerial Duels_Won%↓",Álvaro djaló,Braga,Primeira Liga
+WF,WF-Target,"Tackles_Att 3rd↓, Carries_Carries↓, Performance_Crs↓, Short_Cmp%↓, Aerial Duels_Won%↓",Ole Romeny,Utrecht,Eredivisie
+WF,WF-Target,"Tackles_Att 3rd↓, Carries_Carries↓, Performance_Crs↓, Short_Cmp%↓, Aerial Duels_Won%↓",Yoane Wissa,Brentford,Premier League
+WF,WF-Target,"Tackles_Att 3rd↓, Carries_Carries↓, Performance_Crs↓, Short_Cmp%↓, Aerial Duels_Won%↓",Christoph Baumgartner,RB Leipzig,Bundesliga
+WF,WF-Target,"Tackles_Att 3rd↓, Carries_Carries↓, Performance_Crs↓, Short_Cmp%↓, Aerial Duels_Won%↓",Bryan Limbombe,Heracles Almelo,Eredivisie
+WF,WF-Hybrid,"Dist↑, Challenges_Att↑, Challenges_Lost↑, Challenges_Tkl↑, Performance_2CrdY↑",Rodrigo Riquelme,Atlético Madrid,La Liga
+WF,WF-Hybrid,"Dist↑, Challenges_Att↑, Challenges_Lost↑, Challenges_Tkl↑, Performance_2CrdY↑",Denso Kasius,AZ Alkmaar,Eredivisie
+WF,WF-Hybrid,"Dist↑, Challenges_Att↑, Challenges_Lost↑, Challenges_Tkl↑, Performance_2CrdY↑",Mattia Zaccagni,Lazio,Serie A
+WF,WF-Hybrid,"Dist↑, Challenges_Att↑, Challenges_Lost↑, Challenges_Tkl↑, Performance_2CrdY↑",Leonardo Spinazzola,Roma,Serie A
+WF,WF-Hybrid,"Dist↑, Challenges_Att↑, Challenges_Lost↑, Challenges_Tkl↑, Performance_2CrdY↑",Gelabert,Toulouse,Ligue 1
+CF,CF-Creator,"PrgR↓, Performance_Fld↓, Def↓, xAG↓, Fld↓",Shamar Nicholson,Clermont Foot,Ligue 1
+CF,CF-Creator,"PrgR↓, Performance_Fld↓, Def↓, xAG↓, Fld↓",Sergio Camello,Rayo Vallecano,La Liga
+CF,CF-Creator,"PrgR↓, Performance_Fld↓, Def↓, xAG↓, Fld↓",Walid Cheddira,Frosinone,Serie A
+CF,CF-Creator,"PrgR↓, Performance_Fld↓, Def↓, xAG↓, Fld↓",Steve Mounié,Brest,Ligue 1
+CF,CF-Creator,"PrgR↓, Performance_Fld↓, Def↓, xAG↓, Fld↓",Anthony Martial,Manchester Utd,Premier League
+CF,CF-Finisher,"Performance_CrdY↑, Long_Cmp%↑, xG↑, Gls_shooting↑, G-xG↑",Gianluca Scamacca,Atalanta,Serie A
+CF,CF-Finisher,"Performance_CrdY↑, Long_Cmp%↑, xG↑, Gls_shooting↑, G-xG↑",Radamel Falcao,Rayo Vallecano,La Liga
+CF,CF-Finisher,"Performance_CrdY↑, Long_Cmp%↑, xG↑, Gls_shooting↑, G-xG↑",Richarlison,Tottenham,Premier League
+CF,CF-Finisher,"Performance_CrdY↑, Long_Cmp%↑, xG↑, Gls_shooting↑, G-xG↑",Harry Kane,Bayern Munich,Bundesliga
+CF,CF-Finisher,"Performance_CrdY↑, Long_Cmp%↑, xG↑, Gls_shooting↑, G-xG↑",Nikolas Agrafiotis,Excelsior,Eredivisie
+CF,CF-Hybrid,"PassDead↑, Long_Att↑, Long_Cmp↑, Performance_Crs↑, 1/3↑",Ivan Toney,Brentford,Premier League
+CF,CF-Hybrid,"PassDead↑, Long_Att↑, Long_Cmp↑, Performance_Crs↑, 1/3↑",Martin Terrier,Rennes,Ligue 1
+CF,CF-Hybrid,"PassDead↑, Long_Att↑, Long_Cmp↑, Performance_Crs↑, 1/3↑",Tijjani Noslin,Hellas Verona,Serie A
+CF,CF-Hybrid,"PassDead↑, Long_Att↑, Long_Cmp↑, Performance_Crs↑, 1/3↑",Thomas Müller,Bayern Munich,Bundesliga
+CF,CF-Hybrid,"PassDead↑, Long_Att↑, Long_Cmp↑, Performance_Crs↑, 1/3↑",Dion Moise Sahi,Strasbourg,Ligue 1
