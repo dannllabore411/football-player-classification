@@ -1,5 +1,6 @@
 # football-player-classification
 Classify football players in the Big 8 European leagues into positions and roles based on in-game data, using supervised and unsupervised learning, all in one pipeline.
+<img width="600" height="500" alt="viz_posgrp_umap" src="https://raw.githubusercontent.com/dannllabore411/football-player-classification/refs/heads/main/viz_posgrp_umap.png" />
 ## Files
 - `unsupervised_role_pipeline.py` — Main pipeline script  
 - `fbref_big8_raw_2023-2024.csv` — Raw player stats scraped from FBRef: output of modified scraping module from other project (https://github.com/dannllabore411/fbref-data-analysis)   
